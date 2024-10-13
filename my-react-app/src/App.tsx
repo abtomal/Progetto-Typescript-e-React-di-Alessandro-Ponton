@@ -3,9 +3,9 @@ import StartScreen from './components/StartScreen';
 import Quiz from './components/Quiz';
 import ResultScreen from './components/ResultScreen';
 
-// Definizione di una funzione per il componente principale App
+
 const App: React.FC = () => {
-  // Definizione degli stati con tipi espliciti
+
   const [quizStarted, setQuizStarted] = useState<boolean>(false);
   const [quizEnded, setQuizEnded] = useState<boolean>(false);
   const [score, setScore] = useState<number>(0);
