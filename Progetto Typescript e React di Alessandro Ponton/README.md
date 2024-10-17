@@ -26,14 +26,26 @@ La schermata dei risultati fornisce il totale delle risposte corrette unito ad u
 
 ## Installazione
 
-Scaricare il file .zip del progetto dal repository GitHub.
+Scarica o clona il repository da GitHub.
+```bash
+git clone https://github.com/abtomal/Progetto-Typescript-e-React-di-Alessandro-Ponton.git
+```
 
-Estrarre il file .zip ed entrare nella cartella estratta.
+Estrai il file .zip ed entrare nella cartella estratta.
+```bash
+cd Progetto Typescript e React di Alessandro Ponton
+```
 
 Aprire il prompt dei comandi o il terminale.
 
-Installare le dipendenze necessarie eseguendo il comando: npm install
+Installare le dipendenze necessarie.
+```bash
+npm install
+```
 
-Lanciare il progetto con il comando: npm run dev
+Lanciare il progetto.
+```bash
+npm run dev
+```
 
 Aprire il browser e navigare a http://localhost:5173 oppure http://localhost:3000 per visualizzare il progetto.
